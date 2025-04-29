@@ -5,7 +5,7 @@
                 <xs:element name="osoba">
                     <xs:complexType>
                         <xs:sequence>
-                            <xs:element name="jmeno" type="xs:string" />
+                            <xs:element name="jmenoJmeno" type="xs:string" />
                             <xs:element name="prijmeni" type="xs:string" />
                             <xs:element name="stav" type="xs:string" />
                             <xs:element name="obor" type="xs:string" />
